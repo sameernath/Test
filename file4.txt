@@ -8,4 +8,8 @@ gewytwefytytefty
 gyugeytetetrtet
 
 uttrtrfytfyugfyu
+<<<<<<< HEAD
 
+=======
+gfytytffyt
+>>>>>>> a2a05551af9b1e8bf0c4f21c1b91255a7c20ef8d
